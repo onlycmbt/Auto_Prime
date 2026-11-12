@@ -1,6 +1,6 @@
-﻿# Proyecto de Prueba
+﻿# Auto_Prime
 ## Features
-- Mi primer proyecto en React.
+- Mi proyecto de prueba.
 ## Folder Structure
 - /src
 - /public
