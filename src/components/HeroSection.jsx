@@ -6,7 +6,7 @@ function HeroSection() {
         <span className="hero__badge">🏆 El Marketplace Nº1 de Autos</span>
 
         <h1 className="hero__title">
-          Encuentra Tu <span>Auto Perfecto</span>
+          Llevate Tu <span>Carro Perfecto</span>
         </h1>
 
         <p className="hero__subtitle">
