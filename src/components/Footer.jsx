@@ -17,7 +17,7 @@ function Footer() {
             <h4>Empresa</h4>
             <ul>
               <li><a href="#">Sobre Nosotros</a></li>
-              <li><a href="#">Nuestro Equipo</a></li>
+              <li><a href="#equipo">Nuestro Equipo</a></li>
               <li><a href="#">Blog</a></li>
               <li><a href="#">Prensa</a></li>
             </ul>

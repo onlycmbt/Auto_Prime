@@ -20,6 +20,7 @@ function Navbar() {
             <li><a href="#">Inicio</a></li>
             <li><a href="#catalogo">Catálogo</a></li>
             <li><a href="#caracteristicas">Características</a></li>
+            <li><a href="#equipo">Equipo</a></li>
             <li><a href="#contacto">Contacto</a></li>
           </ul>
         </nav>
